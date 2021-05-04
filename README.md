@@ -11,15 +11,10 @@ for yourself before use.
 A LaTeX template has been provided, effectively providing a suitable title page with blanks ready to fill.
 The structure for the folder should be 
 
-Report (root)
-
-|- report.tex
-
-|- [any include files]
-
-|- images
-
-    |- unisa.png
-    
-    |- [desired images and figures]
+    Report (root)
+    |- report.tex
+    |- [any include files]
+    |- images
+      |- unisa.png
+      |- [desired images and figures]
     
