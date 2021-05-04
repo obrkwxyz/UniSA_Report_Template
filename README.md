@@ -12,8 +12,14 @@ A LaTeX template has been provided, effectively providing a suitable title page 
 The structure for the folder should be 
 
 Report (root)
+
 |- report.tex
-|- (any include files)
+
+|- [any include files]
+
 |- images
+
     |- unisa.png
-    |- (desired images and figures)
+    
+    |- [desired images and figures]
+    
